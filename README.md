@@ -8,3 +8,8 @@ In its final stage the user should be able to do the following things:
 - search for a book in the library
 - borrow a book from the library
 - 
+
+
+Tools that need to be incorporated into the library:
+
+- JSON data
